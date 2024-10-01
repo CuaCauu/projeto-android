@@ -104,6 +104,10 @@ main {
     border-radius: 0px 0px 10px 10px;
 }
 
+main img {
+    width: 100%;
+}
+
 mark {
     background-color: var(--cor1);
 }
